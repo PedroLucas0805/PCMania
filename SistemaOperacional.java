@@ -1,0 +1,6 @@
+package mania.pc;
+
+public class SistemaOperacional {
+    public String nome;
+    public int tipo;
+}
